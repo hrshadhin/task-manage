@@ -32,7 +32,7 @@ http://task.hrshadhin.me
 ## Screenshots
 <img src="public/screenshots/1.png" alt="">
 <img src="public/screenshots/2.png" alt="">
-<img src="public/screenshots/2.png" alt="">
+<img src="public/screenshots/3.png" alt="">
 
 ## License
 Task Manage(Only my codes) is open-sourced software licensed under the [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0).
