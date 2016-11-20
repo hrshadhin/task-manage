@@ -1,0 +1,26 @@
+
+// Fonts
+@import url(https://fonts.googleapis.com/css?family=Raleway:300,400,600);
+
+// Variables
+@import "variables";
+
+// Bootstrap
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+@import "node_modules/toastr/build/toastr";
+@import "node_modules/sweetalert2/dist/sweetalert2";
+
+
+//color
+.sky-blue{
+  background-color: #216a94;
+}
+.task {
+  text-decoration: none !important;
+}
+.task-panel{
+  margin-bottom: 0 !important;
+}
+.panel{
+  margin-bottom: 5px !important;
+}
