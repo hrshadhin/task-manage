@@ -30,8 +30,10 @@ $ php artisan serve
 http://task.hrshadhin.me
 ```
 ## Screenshots
-
-Coming Soon....
+<img src="public/screenshots/1.png" alt="">
+<img src="public/screenshots/2.png" alt="">
+<img src="public/screenshots/2.png" alt="">
 
 ## License
-Task Manage is open-sourced software licensed under the [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0).
+Task Manage(Only my codes) is open-sourced software licensed under the [GPL-3.0 license](https://opensource.org/licenses/GPL-3.0).
+Frameworks and libraries has it own licensed
