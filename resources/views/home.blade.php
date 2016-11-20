@@ -1,5 +1,11 @@
 @extends('layouts.app')
-
+@section('style')
+<style media="screen">
+[v-cloak]{
+    display: none;
+}
+</style>
+@endsection
 @section('content')
 <div class="container">
     <div class="row">

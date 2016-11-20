@@ -13,7 +13,7 @@
 
     <!-- Styles -->
     <link href="/css/app.css" rel="stylesheet">
-
+    @yield('style')
     <!-- Scripts -->
     <script>
     window.Laravel = <?php echo json_encode([
@@ -22,7 +22,7 @@
     </script>
 </head>
 <body>
-    <div id="app">
+    <div id="app" v-cloak>
         <nav class="navbar navbar-primary navbar-static-top">
             <div class="container">
                 <div class="navbar-header">
