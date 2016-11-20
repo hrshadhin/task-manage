@@ -13,10 +13,12 @@ $ cd task-manage
 ```
 $ mv .env.example .env
 ```
-**Change configuration according your need and create databse**
-
+**Change configuration according your need and create Database**
 ```
 $ composer install
+```
+```
+$ php artisan migrate
 ```
 ```
 $ php artisan serve
